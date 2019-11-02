@@ -1,2 +1,2 @@
 # sample-java-project
-Sample Java project for Javadoc tutorial
+Sample Java project for Javadoc tutoria
